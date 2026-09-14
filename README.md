@@ -13,12 +13,10 @@ Build a strong understanding of how modern applications are designed, scaled, se
 * [x] API Gateway
 * [x] Load Balancer
 * [x] Proxy vs Reverse Proxy
-* [ ] Networking Protocols
-* [ ] Scaling Fundamentals
-* [ ] Scaling 0 → 1 Million Users
-* [ ] Distributed Systems Fundamentals
-* [ ] Caching
-* [ ] CAP Theorem
+* [x] Scaling Fundamentals
+* [x] Distributed Systems Fundamentals
+* [x] Caching
+* [x] CAP Theorem
 * [ ] CDN
 * [ ] Rate Limiting
 * [ ] SSL/TLS
@@ -29,18 +27,6 @@ Build a strong understanding of how modern applications are designed, scaled, se
 * [ ] Message Queues
 * [ ] Capacity Estimation
 
-## Focus
-
-The goal is not to memorize advanced system design theory.
-
-For each topic, I focus on:
-
-1. What is it?
-2. Why do we need it?
-3. How does it work?
-4. When do we use it?
-5. What are the trade-offs?
-6. How does it relate to Cloud/DevOps?
 
 ## Architecture Practice
 
