@@ -17,11 +17,12 @@ Build a strong understanding of how modern applications are designed, scaled, se
 * [x] Distributed Systems Fundamentals
 * [x] Caching
 * [x] CAP Theorem
-* [ ] CDN
+* [x] CDN
+* [x] SQL vs NoSQL
+* [x] Avoiding Single Point of Failure
+* [x] How HTTPS Works
 * [ ] Rate Limiting
 * [ ] SSL/TLS
-* [ ] SQL vs NoSQL
-* [ ] Avoiding Single Point of Failure
 * [ ] Database Sharding
 * [ ] Consistent Hashing
 * [ ] Message Queues
